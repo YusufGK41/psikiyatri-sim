@@ -1,0 +1,14 @@
+# --- Python (Backend) ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- Node / React (Frontend) ---
+node_modules/
+dist/
+build/
+.env.local
+.DS_Store
