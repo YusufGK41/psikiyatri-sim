@@ -6,9 +6,10 @@ venv/
 env/
 .env
 
-# --- Node / React (Frontend) ---
+# --- Node / Next.js (Frontend) ---
 node_modules/
+.next/
 dist/
 build/
-.env.local
+.env*.local
 .DS_Store
