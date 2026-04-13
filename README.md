@@ -37,7 +37,7 @@ Ruh sağlığı acil servisleri, kriz düzeylerine göre hızlı ve hassas müda
 ## 🛠️ Kurulum ve Çalıştırma Rehberi
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
-
+-
 ### 1. Repoyu Klonlayın
 
 ```bash
