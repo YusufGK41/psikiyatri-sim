@@ -36,16 +36,13 @@ Ruh sağlığı acil servisleri, kriz düzeylerine göre hızlı ve hassas müda
 
 ## 🛠️ Kurulum ve Çalıştırma Rehberi
 
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
--
+## Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
+
 ### 1. Repoyu Klonlayın
 
 ```bash
-git clone [https://github.com/YusufGK41/psikiyatri-sim.git](https://github.com/YusufGK41/psikiyatri-sim.git)
+git clone https://github.com/YusufGK41/psikiyatri-sim.git
 cd psikiyatri-sim
-
-
-
 
 Backend Sunucusunu Başlatın
 Yeni bir terminal açın ve sırasıyla şu komutları girin:
