@@ -5,6 +5,11 @@ __pycache__/
 venv/
 env/
 .env
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
 
 # --- Node / Next.js (Frontend) ---
 node_modules/
@@ -12,4 +17,27 @@ node_modules/
 dist/
 build/
 .env*.local
+.turbo/
+out/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- İşletim Sistemi ---
 .DS_Store
+Thumbs.db
+
+# --- IDE / Editör ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Proje Özel (Otomatik Üretilen Dosyalar) ---
+Generated_image.png
+docx_content.txt
+*.pdf
+*.docx
+report_images/
