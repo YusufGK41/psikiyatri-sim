@@ -1,4 +1,4 @@
-# 🏥 Ruh Sağlığı Acil Servisi — Triyaj ve Kapasite Planlama DSS
+# Ruh Sağlığı Acil Servisi — Triyaj ve Kapasite Planlama DSS
 
 Bu proje, yüksek yoğunluklu psikiyatri acil servislerinde hasta akışını, triyaj süreçlerini ve kaynak yönetimini optimize etmek amacıyla geliştirilmiş bir **Karar Destek Sistemi (DSS)** ve **Kesikli Olay Simülasyonu ** uygulamasıdır.
 
@@ -9,14 +9,14 @@ Ruh sağlığı acil servisleri, kriz düzeylerine göre hızlı ve hassas müda
 - "1 yerine 2 psikiyatrist olsaydı bekleme süreleri ne kadar kısalırdı?"
 - "Hasta geliş hızı %20 artarsa kaç kişi hizmet alamadan ayrılır (Reneging)?"
 
-## 🚀 Temel Özellikler
+## Temel Özellikler
 
 - **Hiyerarşik Triyaj:** Hastalar P1 (Akut), P2 (Orta) ve P3 (Hafif) olarak sınıflandırılır. Akut vakalar kuyrukta otomatik olarak en öne alınır.
 - **Akıllı Kaynak Atama:** Kriz seviyesine göre müsait olan uzman doktor veya psikolog ataması gerçek zamanlı yapılır.
 - **Vazgeçme (Reneging) Analizi:** Bekleme toleransını aşan hastaların sistemi terk etme oranları matematiksel olarak izlenir.
 - **Gerçek Zamanlı Dashboard:** Simülasyon çıktıları (bekleme süreleri, kuyruk uzunluğu, doktor doluluk oranları) anlık grafiklerle görselleştirilir.
 
-## 💻 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 **Backend (Simülasyon ve API Katmanı):**
 
@@ -34,7 +34,7 @@ Ruh sağlığı acil servisleri, kriz düzeylerine göre hızlı ve hassas müda
 
 ---
 
-## 🛠️ Kurulum ve Çalıştırma Rehberi
+##  Kurulum ve Çalıştırma Rehberi
 
 ## Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
 
@@ -66,7 +66,7 @@ npm install
 npm run dev
 ```
 
-👥 Geliştirici Ekibi
+ Geliştirici Ekibi
 Bu proje takım çalışmasıyla aşağıdaki görev dağılımına göre geliştirilmektedir:
 
 Yusuf Gürkan: Proje Lideri & Sistem Entegrasyonu
