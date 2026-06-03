@@ -1,6 +1,6 @@
 # 🏥 Ruh Sağlığı Acil Servisi — Triyaj ve Kapasite Planlama DSS
 
-Bu proje, yüksek yoğunluklu psikiyatri acil servislerinde hasta akışını, triyaj süreçlerini ve kaynak yönetimini optimize etmek amacıyla geliştirilmiş bir **Karar Destek Sistemi (DSS)** ve **Kesikli Olay Simülasyonu (Discrete-Event Simulation)** uygulamasıdır.
+Bu proje, yüksek yoğunluklu psikiyatri acil servislerinde hasta akışını, triyaj süreçlerini ve kaynak yönetimini optimize etmek amacıyla geliştirilmiş bir **Karar Destek Sistemi (DSS)** ve **Kesikli Olay Simülasyonu ** uygulamasıdır.
 
 ## 📌 Projenin Amacı
 
